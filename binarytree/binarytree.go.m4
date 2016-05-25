@@ -1,5 +1,6 @@
 changecom("//")
 // pass "-D TYPE=foo" to build a Treefoo, which can be created with "binarytree.Newfoo"
+// \todo add include logic, for custom types
 
 package binarytree
 
